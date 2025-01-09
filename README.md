@@ -1,5 +1,5 @@
 # Humanoid-Robotic-workshop
-## Faculty of Electrical Engineering, Amirkabir University of Technolog, Iran
+## Faculty of Electrical Engineering, Amirkabir University of Technology, Iran
 
 ### Participated in a 26-hour series of workshops covering:
 * Introduction to Python Programming       
